@@ -13,16 +13,7 @@ This repo contains a clean, notebook-first workflow with:
 - Model (LSTM): MAE 1.772 °C, RMSE 2.300 °C  
 **Improvement:** ~25% MAE and ~25% RMSE vs baseline.
 
-## Repo Structure
-.
-├── notebook/
-│   └── Jenna_Climate.ipynb
-├── src/                # optional Python modules
-├── figures/            # exported plots
-├── data/               # (ignored) put raw data here
-├── requirements.txt
-├── .gitignore
-└── README.md
+<pre> ## Repo Structure ``` . ├── notebook/ │ └── Jenna_Climate.ipynb ├── src/ # optional Python modules ├── figures/ # exported plots ├── data/ # (ignored) put raw data here ├── requirements.txt ├── .gitignore └── README.md ``` </pre>
 
 ## How to run
 1. Create a Python env and install deps:
