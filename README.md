@@ -14,10 +14,12 @@ This repo contains a clean, notebook-first workflow with:
 **Improvement:** ~25% MAE and ~25% RMSE vs baseline.
 
 ## Repo Structure
-├── notebook.ipynb
-├── src/ # optional Python modules
-├── figures/ # exported plots
-├── data/ # (ignored) put raw data here
+.
+├── notebook/
+│   └── Jenna_Climate.ipynb
+├── src/                # optional Python modules
+├── figures/            # exported plots
+├── data/               # (ignored) put raw data here
 ├── requirements.txt
 ├── .gitignore
 └── README.md
